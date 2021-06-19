@@ -1,0 +1,2 @@
+# GuildAutoPub
+Automatic advertise bot

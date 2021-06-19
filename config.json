@@ -1,0 +1,12 @@
+{
+    "settings": {
+        "prefix": ".",
+        "pubactif": true,
+        "pubnewguild": true,
+        "pubnewmember": true,
+        "guild": {
+            "logschannel": "855130858770923542",
+            "guildID": "855130859290886186"
+        }
+    }
+}
